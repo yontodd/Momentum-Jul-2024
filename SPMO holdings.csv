@@ -1,0 +1,102 @@
+Fund Ticker,Security Identifier,Holding Ticker,Shares/Par Value,MarketValue,Weight,Name,Class of Shares,Sector,Date
+SPMO,67066G104,NVDA ,"2,216,913","250,644,183.78",11.943,NVIDIA Corp,Common Stock,Information Technology,07/26/2024
+SPMO,037833100,AAPL ,"970,094","211,441,688.24",10.075,Apple Inc,Common Stock,Information Technology,07/26/2024
+SPMO,594918104,MSFT ,"423,903","180,273,228.81",8.590,Microsoft Corp,Common Stock,Information Technology,07/26/2024
+SPMO,30303M102,META ,"357,810","166,632,117.00",7.940,Meta Platforms Inc,Common Stock,Communication Services,07/26/2024
+SPMO,023135106,AMZN ,"856,746","156,356,145.00",7.450,Amazon.com Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,11135F101,AVGO ,"727,517","110,313,402.71",5.256,Broadcom Inc,Common Stock,Information Technology,07/26/2024
+SPMO,532457108,LLY ,"126,892","102,099,841.04",4.865,Eli Lilly & Co,Common Stock,Health Care,07/26/2024
+SPMO,084670702,BRK/B ,"180,488","78,992,378.08",3.764,Berkshire Hathaway Inc,Common Stock,Financials,07/26/2024
+SPMO,46625H100,JPM ,"245,222","52,045,917.28",2.480,JPMorgan Chase & Co,Common Stock,Financials,07/26/2024
+SPMO,22160K105,COST ,"55,388","45,285,228.80",2.158,Costco Wholesale Corp,Common Stock,Consumer Staples,07/26/2024
+SPMO,79466L302,CRM ,"122,980","32,308,075.80",1.539,Salesforce Inc,Common Stock,Information Technology,07/26/2024
+SPMO,007903107,AMD ,"220,631","30,886,133.69",1.472,Advanced Micro Devices Inc,Common Stock,Information Technology,07/26/2024
+SPMO,00724F101,ADBE ,"52,460","28,456,402.40",1.356,Adobe Inc,Common Stock,Information Technology,07/26/2024
+SPMO,369604301,GE ,"161,308","27,391,711.48",1.305,General Electric Co,Common Stock,Industrials,07/26/2024
+SPMO,64110L106,NFLX ,"40,276","25,429,058.12",1.212,Netflix Inc,Common Stock,Communication Services,07/26/2024
+SPMO,459200101,IBM ,"116,776","22,391,798.00",1.067,International Business Machines Corp,Common Stock,Information Technology,07/26/2024
+SPMO,931142103,WMT ,"310,081","21,637,452.18",1.031,Walmart Inc,Common Stock,Consumer Staples,07/26/2024
+SPMO,81762P102,NOW ,"25,272","20,915,359.92",0.997,ServiceNow Inc,Common Stock,Information Technology,07/26/2024
+SPMO,90353T100,UBER ,"324,302","20,885,048.80",0.995,Uber Technologies Inc,Common Stock,Industrials,07/26/2024
+SPMO,B4BNMY3,ACN ,"56,981","18,715,979.26",0.892,Accenture PLC,Common Stock,Information Technology,07/26/2024
+SPMO,461202103,INTU ,"28,608","18,119,162.88",0.863,Intuit Inc,Common Stock,Information Technology,07/26/2024
+SPMO,G54950103,LIN ,"39,434","17,800,113.26",0.848,Linde PLC,Common Stock,Materials,07/26/2024
+SPMO,46120E602,ISRG ,"36,625","16,162,612.50",0.770,Intuitive Surgical Inc,Common Stock,Health Care,07/26/2024
+SPMO,697435105,PANW ,"47,856","15,639,819.36",0.745,Palo Alto Networks Inc,Common Stock,Information Technology,07/26/2024
+SPMO,031162100,AMGN ,"45,448","15,218,262.80",0.725,Amgen Inc,Common Stock,Health Care,07/26/2024
+SPMO,038222105,AMAT ,"72,931","15,058,063.57",0.717,Applied Materials Inc,Common Stock,Information Technology,07/26/2024
+SPMO,G29183103,ETN ,"46,358","13,804,948.82",0.658,Eaton Corp PLC,Common Stock,Industrials,07/26/2024
+SPMO,09857L108,BKNG ,"3,545","13,120,009.55",0.625,Booking Holdings Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,512807108,LRCX ,"14,010","12,533,906.40",0.597,Lam Research Corp,Common Stock,Information Technology,07/26/2024
+SPMO,101137107,BSX ,"153,452","11,496,623.84",0.548,Boston Scientific Corp,Common Stock,Health Care,07/26/2024
+SPMO,458140100,INTC ,"364,094","11,414,346.90",0.544,Intel Corp,Common Stock,Information Technology,07/26/2024
+SPMO,92532F100,VRTX ,"21,769","10,781,314.94",0.514,Vertex Pharmaceuticals Inc,Common Stock,Health Care,07/26/2024
+SPMO,040413106,ANET ,"31,590","10,083,843.90",0.480,Arista Networks Inc,Common Stock,Information Technology,07/26/2024
+SPMO,482480100,KLAC ,"12,529","9,865,209.31",0.470,KLA Corp,Common Stock,Information Technology,07/26/2024
+SPMO,863667101,SYK ,"29,369","9,740,816.23",0.464,Stryker Corp,Common Stock,Health Care,07/26/2024
+SPMO,872540109,TJX ,"84,225","9,418,881.75",0.449,TJX Cos Inc/The,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,893641100,TDG ,"7,508","9,271,328.88",0.442,TransDigm Group Inc,Common Stock,Industrials,07/26/2024
+SPMO,337738108,FI ,"56,435","9,026,213.90",0.430,Fiserv Inc,Common Stock,Financials,07/26/2024
+SPMO,871607107,SNPS ,"15,479","8,457,416.02",0.403,Synopsys Inc,Common Stock,Information Technology,07/26/2024
+SPMO,127387108,CDNS ,"31,336","8,109,443.44",0.386,Cadence Design Systems Inc,Common Stock,Information Technology,07/26/2024
+SPMO,75886F107,REGN ,"7,512","8,102,668.56",0.386,Regeneron Pharmaceuticals Inc,Common Stock,Health Care,07/26/2024
+SPMO,58155Q103,MCK ,"12,558","7,536,809.28",0.359,McKesson Corp,Common Stock,Health Care,07/26/2024
+SPMO,172908105,CTAS ,"9,802","7,463,144.78",0.356,Cintas Corp,Common Stock,Industrials,07/26/2024
+SPMO,G8994E103,TT ,"22,090","7,283,293.90",0.347,Trane Technologies PLC,Common Stock,Industrials,07/26/2024
+SPMO,169656105,CMG ,"143,500","7,150,605.00",0.341,Chipotle Mexican Grill Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,824348106,SHW ,"20,128","7,029,100.16",0.335,Sherwin-Williams Co/The,Common Stock,Materials,07/26/2024
+SPMO,032095101,APH ,"108,396","6,922,168.56",0.330,Amphenol Corp,Common Stock,Information Technology,07/26/2024
+SPMO,701094104,PH ,"12,453","6,906,558.33",0.329,Parker-Hannifin Corp,Common Stock,Industrials,07/26/2024
+SPMO,718546104,PSX ,"44,294","6,299,049.74",0.300,Phillips 66,Common Stock,Energy,07/26/2024
+SPMO,94106L109,WM ,"31,972","6,297,205.12",0.300,Waste Management Inc,Common Stock,Industrials,07/26/2024
+SPMO,303250104,FICO ,"3,912","6,282,437.28",0.299,Fair Isaac Corp,Common Stock,Information Technology,07/26/2024
+SPMO,609207105,MDLZ ,"93,680","6,222,225.60",0.296,Mondelez International Inc,Common Stock,Consumer Staples,07/26/2024
+SPMO,693718108,PCAR ,"59,165","5,871,534.60",0.280,PACCAR Inc,Common Stock,Industrials,07/26/2024
+SPMO,776696106,ROP ,"10,541","5,782,054.73",0.276,Roper Technologies Inc,Common Stock,Information Technology,07/26/2024
+SPMO,67103H107,ORLY ,"5,164","5,733,640.84",0.273,O'Reilly Automotive Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,571903202,MAR ,"23,954","5,667,516.40",0.270,Marriott International Inc/MD,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,620076307,MSI ,"14,287","5,624,934.77",0.268,Motorola Solutions Inc,Common Stock,Information Technology,07/26/2024
+SPMO,278865100,ECL ,"22,686","5,563,514.64",0.265,Ecolab Inc,Common Stock,Materials,07/26/2024
+SPMO,21037T109,CEG ,"31,440","5,503,257.60",0.262,Constellation Energy Corp,Common Stock,Utilities,07/26/2024
+SPMO,760759100,RSG ,"28,674","5,456,662.20",0.260,Republic Services Inc,Common Stock,Industrials,07/26/2024
+SPMO,V7780T103,RCL ,"33,141","5,089,131.96",0.242,Royal Caribbean Cruises Ltd,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,217204106,CPRT ,"99,069","5,057,472.45",0.241,Copart Inc,Common Stock,Industrials,07/26/2024
+SPMO,384802104,GWW ,"5,141","4,988,517.94",0.238,WW Grainger Inc,Common Stock,Industrials,07/26/2024
+SPMO,23331A109,DHI ,"27,467","4,860,010.98",0.232,DR Horton Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,43300A203,HLT ,"22,392","4,827,939.12",0.230,Hilton Worldwide Holdings Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,03073E105,COR ,"20,520","4,670,762.40",0.223,Cencora Inc,Common Stock,Health Care,07/26/2024
+SPMO,56585A102,MPC ,"25,870","4,466,455.50",0.213,Marathon Petroleum Corp,Common Stock,Energy,07/26/2024
+SPMO,526057104,LEN ,"24,669","4,359,258.99",0.208,Lennar Corp,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,363576109,AJG ,"15,150","4,296,237.00",0.205,Arthur J Gallagher & Co,Common Stock,Financials,07/26/2024
+SPMO,311900104,FAST ,"60,163","4,233,670.31",0.202,Fastenal Co,Common Stock,Industrials,07/26/2024
+SPMO,745867101,PHM ,"31,984","4,157,600.16",0.198,PulteGroup Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,92345Y106,VRSK ,"14,676","4,108,839.72",0.196,Verisk Analytics Inc,Common Stock,Industrials,07/26/2024
+SPMO,45687V106,IR ,"41,602","4,106,117.40",0.196,Ingersoll Rand Inc,Common Stock,Industrials,07/26/2024
+SPMO,911363109,URI ,"4,940","3,715,917.40",0.177,United Rentals Inc,Common Stock,Industrials,07/26/2024
+SPMO,573284106,MLM ,"5,929","3,353,560.98",0.160,Martin Marietta Materials Inc,Common Stock,Materials,07/26/2024
+SPMO,443201108,HWM ,"39,184","3,239,733.12",0.154,Howmet Aerospace Inc,Common Stock,Industrials,07/26/2024
+SPMO,366651107,IT ,"6,750","3,178,710.00",0.151,Gartner Inc,Common Stock,Information Technology,07/26/2024
+SPMO,12008R107,BLDR ,"17,604","2,948,493.96",0.140,Builders FirstSource Inc,Common Stock,Industrials,07/26/2024
+SPMO,12503M108,CBOE ,"15,347","2,861,601.62",0.136,Cboe Global Markets Inc,Common Stock,Financials,07/26/2024
+SPMO,14149Y108,CAH ,"28,719","2,824,513.65",0.135,Cardinal Health Inc,Common Stock,Health Care,07/26/2024
+SPMO,11133T103,BR ,"12,868","2,736,122.84",0.130,Broadridge Financial Solutions Inc,Common Stock,Industrials,07/26/2024
+SPMO,550021109,LULU ,"10,436","2,645,526.00",0.126,Lululemon Athletica Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,G0450A105,ACGL ,"27,092","2,625,485.72",0.125,Arch Capital Group Ltd,Common Stock,Financials,07/26/2024
+SPMO,74762E102,PWR ,"9,932","2,549,842.36",0.121,Quanta Services Inc,Common Stock,Industrials,07/26/2024
+SPMO,929160109,VMC ,"9,666","2,529,688.86",0.121,Vulcan Materials Co,Common Stock,Materials,07/26/2024
+SPMO,62944T105,NVR ,282,"2,425,369.20",0.116,NVR Inc,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,46284V101,IRM ,"24,511","2,414,333.50",0.115,Iron Mountain Inc,Real Estate Investment Trust			     ,Real Estate,07/26/2024
+SPMO,929740108,WAB ,"14,773","2,359,100.37",0.112,Westinghouse Air Brake Technologies Corp,Common Stock,Industrials,07/26/2024
+SPMO,874054109,TTWO ,"14,989","2,259,516.81",0.108,Take-Two Interactive Software Inc,Common Stock,Communication Services,07/26/2024
+SPMO,115236101,BRO ,"22,528","2,234,101.76",0.106,Brown & Brown Inc,Common Stock,Financials,07/26/2024
+SPMO,69370C100,PTC ,"11,954","2,077,605.20",0.099,PTC Inc,Common Stock,Information Technology,07/26/2024
+SPMO,629377508,NRG ,"27,373","2,017,663.83",0.096,NRG Energy Inc,Common Stock,Utilities,07/26/2024
+SPMO,443510607,HUBB ,"5,186","1,903,728.74",0.091,Hubbell Inc,Common Stock,Industrials,07/26/2024
+SPMO,219948106,CPAY ,"6,483","1,894,138.11",0.090,Corpay Inc,Common Stock,Financials,07/26/2024
+SPMO,955306105,WST ,"6,573","1,871,727.48",0.089,West Pharmaceutical Services Inc,Common Stock,Health Care,07/26/2024
+SPMO,00971T101,AKAM ,"14,578","1,413,628.66",0.067,Akamai Technologies Inc,Common Stock,Information Technology,07/26/2024
+SPMO,466313103,JBL ,"12,332","1,361,206.16",0.065,Jabil Inc,Common Stock,Information Technology,07/26/2024
+SPMO,143658300,CCL ,"71,915","1,241,972.05",0.059,Carnival Corp,Common Stock,Consumer Discretionary,07/26/2024
+SPMO,G7S00T104,PNR ,"13,228","1,170,678.00",0.056,Pentair PLC,Common Stock,Industrials,07/26/2024
+SPMO,825252885,AGPXX ,"748,914","748,914.41",0.036,Invesco Government & Agency Portfolio,"Money Market Fund, Taxable			     ",Investment Companies,07/26/2024
+SPMO,CASHUSD00,-CASH-,"-1,500","-1,499.58",-0.000,Cash/Receivables/Payables,Currency,Cash,07/26/2024
