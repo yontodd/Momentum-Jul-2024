@@ -1,4 +1,4 @@
-Fund Ticker,Security Identifier,Holding Ticker,Shares/Par Value,MarketValue,Weight,Name,Class of Shares,Sector,Date
+Fund Ticker,Security Identifier,Ticker,Shares/Par Value,MarketValue,Weight,Name,Class of Shares,Sector,Date
 SPMO,67066G104,NVDA ,"2,216,913","250,644,183.78",11.943,NVIDIA Corp,Common Stock,Information Technology,07/26/2024
 SPMO,037833100,AAPL ,"970,094","211,441,688.24",10.075,Apple Inc,Common Stock,Information Technology,07/26/2024
 SPMO,594918104,MSFT ,"423,903","180,273,228.81",8.590,Microsoft Corp,Common Stock,Information Technology,07/26/2024
